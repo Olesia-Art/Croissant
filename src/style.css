@@ -1,7 +1,14 @@
+body {
+  background-color: #defcf9;
+  margin: 30px 60px;
+}
+
 h1 {
   text-align: center;
+  color: #cca8e9;
 }
 
 p {
   text-align: center;
+  color: #c3bef0;
 }
