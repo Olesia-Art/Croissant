@@ -1,14 +1,21 @@
 body {
-  background-color: #defcf9;
-  margin: 30px 60px;
+  background-color: #fecea8 !important;
+  margin-bottom: 6px;
 }
 
 h1 {
   text-align: center;
-  color: #cca8e9;
 }
 
 p {
   text-align: center;
-  color: #c3bef0;
+}
+
+.buttons {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.button {
+  color: blueviolet;
 }
